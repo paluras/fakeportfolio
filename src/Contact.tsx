@@ -22,10 +22,10 @@ function Contact(){
     <footer>
         <h2>adamkeyes</h2>
               <div className='icons'>
-                <img src='src\assets\icon-github.svg' alt="github-icon"></img>
-                <img src='src\assets\icon-frontend-mentor.svg' alt="fm-icon"></img>
-                <img src='src\assets\icon-github.svg' alt="github-icon"></img>
-                <img src='src\assets\icon-twitter.svg' alt="twitter-icon"></img>
+                <img src='./src\assets\icon-github.svg' alt="github-icon"></img>
+                <img src='./src\assets\icon-frontend-mentor.svg' alt="fm-icon"></img>
+                <img src='./src\assets\icon-github.svg' alt="github-icon"></img>
+                <img src='./src\assets\icon-twitter.svg' alt="twitter-icon"></img>
 </div>   
               </footer>  
         </div>
