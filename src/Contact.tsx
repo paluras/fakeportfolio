@@ -1,6 +1,8 @@
 import React from "react";
 import github from "/public/icon-github.svg"
 import ft from  '/public/icon-frontend-mentor.svg'
+import twitter from '/icon-twitter.svg'
+
 
 function Contact(){
     return(
@@ -25,8 +27,8 @@ function Contact(){
               <div className='icons'>
                 <img src={github} alt="github-icon"></img>
                 <img src={ft} alt="fm-icon"></img>
-                <img src='public/icon-github.svg' alt="github-icon"></img>
-                <img src='public/icon-twitter.svg' alt="twitter-icon"></img>
+                <img src={github} alt="github-icon"></img>
+                <img src={twitter} alt="twitter-icon"></img>
 </div>   
               </footer>  
         </div>

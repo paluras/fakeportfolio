@@ -1,10 +1,10 @@
 import React from "react";
-
+import project from  '/thumbnail-project-1-small.webp'
 
 function Card(){
     return(
         <div className='projects'>
-              <img src='public\thumbnail-project-1-small.webp'></img>
+              <img src={project}></img>
               <h3>Design Portfolio</h3>
               <ul>
                 <li>HTML</li>
