@@ -4,7 +4,7 @@ import React from "react";
 function Card(){
     return(
         <div className='projects'>
-              <img src='src\assets\thumbnail-project-1-small.webp'></img>
+              <img src='public\thumbnail-project-1-small.webp'></img>
               <h3>Design Portfolio</h3>
               <ul>
                 <li>HTML</li>

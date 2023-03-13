@@ -21,7 +21,7 @@ p{
   position: relative; 
 }
 .ring{
-  background-image: url("./assets/pattern-rings.svg");
+  background-image: url("public/pattern-rings.svg");
   background-repeat: no-repeat;
   position: absolute;
   width: 530px;

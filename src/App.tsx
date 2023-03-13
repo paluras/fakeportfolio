@@ -3,9 +3,6 @@ import './App.css'
 import Card from './Card'
 import Contact from './Contact'
 
-
-import github from "./assets/icon-github.svg"
-
 function App() {
   const [count, setCount] = useState(0)
 
@@ -21,13 +18,13 @@ function App() {
             <div className='name-icons'>
               <h1>adamkeyes</h1>
               <div className='icons'>
-                <img src={github} alt='github-icon'></img>
-                <img src='src\assets\icon-frontend-mentor.svg' alt='fm-icon'></img>
-                <img src='src\assets\icon-github.svg' alt='github-icon'></img>
-                <img src='src\assets\icon-twitter.svg' alt="twiter-icon"></img>
+                <img src='public\icon-github.svg' alt=''></img>
+                <img src='public\icon-frontend-mentor.svg' alt='fm-icon'></img>
+                <img src='public\icon-github.svg' alt='github-icon'></img>
+                <img src='public\icon-twitter.svg' alt="twiter-icon"></img>
               </div>
             </div>
-              <img className='profile-pic' src='src\assets\image-profile-mobile.webp' alt='profile-img'></img>
+              <img className='profile-pic' src='public\image-profile-mobile.webp' alt='profile-img'></img>
           
           <div className='text-contact'>
               <h1>Nice to meet you!
